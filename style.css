@@ -1,0 +1,320 @@
+* {
+	margin: 0;
+}
+
+body {
+	font-family: VarelaRound-Regular;
+	background-color: #eff2ea;
+}
+
+nav {
+	background-color: #eff2ea;
+}
+
+a.navbar-brand {
+	font-family: against regular;
+	font-size: 30px;
+	color:  #494338;
+}
+
+
+
+li.nav-item {
+	font-size: 20px;
+	padding-left: 10px;
+	margin-left: 15px;
+}
+
+.nav-link {
+	color: #494338;
+	border-bottom: #eff2ea solid;
+}
+
+.nav-link:hover {
+	border-bottom: #494338 solid;
+	color: #1f3336;
+}
+
+.home {
+	margin-top: 125px;
+	margin-bottom: 50px;
+}
+
+.home:hover {
+	cursor: all-scroll;
+	transform: scale(1.1);
+}
+.home h1 {
+	padding-top: 0px;
+	color: #494338;
+	font-family: against regular;
+	font-size: 40px;
+	text-align: center;
+	margin-left: 30px;
+}
+
+.home p {
+	text-align: center;
+	color: #494338;
+	margin-left: 30px;
+}
+
+.container-about {
+	max-width: 600px;
+}
+
+.container-about img {
+	width: 200px;
+	height: 200px;
+	margin-right: 20px;
+}
+
+.col-6 h1 {
+	color: #494338;
+	font-family: against regular;
+	font-size: 25px;
+	padding-top: 30px;
+	text-align: left;
+	margin-left: 20px;
+}
+.col-6 p.about-p{
+	color: #494338;
+	font-family: VarelaRound-Regular;
+	font-size: 11px;
+	text-align: justify;
+	margin-left: 20px;
+
+}
+span.bold {
+	font-weight: bold;
+}
+
+.col-6 {
+	max-width: 600px;
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+
+
+.manik {
+	max-width: 600px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-top-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	margin-left: 40px;
+}
+
+.manik h1 {
+	margin-top: 50px;
+	margin-bottom: 25px;
+	color: #494338;
+	font-family: against regular;
+	font-size: 25px;
+}
+.card-body {
+	background-color: #494338;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.card-title {
+	font-weight: bold;
+	color: #eff2ea;
+	margin-top: 20px;
+}
+
+.card-text {
+	font-family: arial;
+	color: #eff2ea;
+	font-size: 11px;
+	margin-top: 25px;
+}
+
+.btn-biru {
+	display: inline-block;
+	padding: 8px 10px;
+	border-radius: 4px;
+	text-decoration: none;
+	background-color: #eff2ea;
+	color: #494338;
+}
+
+.btn-biru:hover {
+	background-color: #494338;
+	color:  #eff2ea;
+	font-weight: bold;
+}
+
+.btn-link {
+	margin-top: 50px;
+	display: inline-block;
+	padding: 8px 10px;
+	border-radius: 50px;
+	text-decoration: none;
+	background-color: #494338;
+	color: #eff2ea;
+}
+
+.btn-link:hover {
+	background-color: #eff2ea;
+	color:  #494338;
+	font-weight: bold;
+}
+
+.footer {
+	border: #494338 solid;
+	border-radius: 5px;
+	max-width: 500px;
+	height: 400px;
+	margin-left: 40px;
+}
+
+.footer-ter {
+	max-width: 600px;
+}
+
+
+
+.footer-whatsapp {
+	display: flex;
+	align-items: right;
+	margin-top: 10px;
+}
+
+.footer-whatsapp a {
+	text-decoration: none;
+}
+
+.footer-email a {
+
+	text-decoration: none;
+}
+.footer-email {
+	display: flex;
+	align-items: right;
+	margin-top: 10px;
+}
+
+iframe {
+	max-width: 400px;
+}
+
+i {
+	font-size: 20px;
+	color: #494338;
+	margin-top: 4px;
+	margin-left: 25px;
+}
+
+.col-6 h3 {
+	font-size: 20px;
+	color: #494338;
+	text-decoration: underline;
+	text-align: left;
+	margin-left: 25px;
+}
+
+.col-6 p {
+	font-size: 10px;
+	color: #494338;
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+p.alamat {
+	margin-left: 25px;
+}
+
+
+.btn-pink {
+	margin-top: 35px;
+	display: inline-block;
+	background-color: #eff2ea;
+	padding: 8px 16px;
+	border-radius: 4px;
+	font-weight: bold;
+	color: #494338;
+	text-decoration: none;
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+
+.btn-pink:hover {
+	color: #eff2ea;
+	background-color: #494338;
+}
+
+.footer h5 {
+	background-color: #494338;
+	color: #eff2ea;
+	height: 60px;
+	width: 100%;
+	max-width: 600px;
+	max-height: auto;
+}
+
+iframe {
+	max-width: 600px;
+}
+
+.copyright {
+	margin-top: 20px;
+}
+
+.copyright p {
+	font-size: 20px;
+	color: #494338;
+	margin-left: 40px;
+}
+
+.floating-container {
+	position: fixed;
+	width: 100px;
+	height: 100px;
+	bottom: 0;
+	right: 0;
+	margin: 35px 25px;
+}
+
+.floating-container:hover .floating-button {
+	box-shadow: 0 10px 25px rgbh(44, 170, 240, 0.6);
+}
+
+.floating-button {
+	position: absolute;
+	width: 65px
+	height: 65px;
+	background-color: #494338;
+	bottom: 0;
+	border-radius: 50%;
+	left: 0;
+	right: 0;
+	color: #494338;
+	line-height: 65px;
+	text-align: center;
+	font-size: 25px;
+	z-index: 100;
+	box-shadow: 0 10px 25px 5px rgba(44, 179, 240,0.6);
+	cursor: pointer;
+}
+
+.element-container {
+	padding-bottom: 15px;
+}
+
+.float-element {
+	padding-bottom: 15px;
+}
+
+a.whatsapp i {
+	max-width: 600px;
+	background-color: #494338;
+	color:  #eff2ea;
+	padding: 10px;
+	border-radius: 25%;
+	font-size: 20px;
+}
